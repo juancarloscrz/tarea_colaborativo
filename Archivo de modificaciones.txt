@@ -1,3 +1,11 @@
 "Este archivo será utilizado para emular modificaciones en el proyecto colaborativo.
 
 Juan_Carlos_Cruz."
+
+"Nombre_Persona 2.
+
+El repositorio remoto actualizado se puede encontrar en las url's
+
+https://github.com/juancarloscrz/tarea_colaborativo
+
+https://github.com/jorgepartidap/tarea_colaborativo"
